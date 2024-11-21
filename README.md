@@ -8,7 +8,7 @@
 
 Este projeto é uma solução simples e eficiente para calcular o volume de um cilindro, com foco em **qualidade de código** e **boas práticas**. 🎯
 
-Com testes automatizados, integração contínua via **GitHub Actions** e análise de qualidade com **SonarCloud**, estamos prontos para garantir um código **limpo, confiável e escalável**! 🚀
+Com testes automatizados, integração contínua via **GitHub Actions** e análise de qualidade com **SonarCloud**, estamos prontos para garantir um código **limpo, confiável e escalável**!
 
 ---
 
